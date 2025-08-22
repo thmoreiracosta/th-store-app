@@ -42,3 +42,14 @@ th-store-app/
 │   └── assets/      # Imagens e mídias
 │── package.json     # Dependências do projeto
 │── README.md        # Documentação
+
+
+## ⚙️ Como Executar o Projeto
+
+- Clone o repositório:
+  git clone https://github.com/thmoreiracosta/th-store-app.git
+
+## 📞 Contato
+
+## 👨‍💻 Desenvolvido por Thiago Costa
+- 🔗 GitHub @thmoreiracosta
