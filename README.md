@@ -49,7 +49,9 @@ th-store-app/
 - Clone o repositório:
   git clone https://github.com/thmoreiracosta/th-store-app.git
 
-## 📞 Contato
-
 ## 👨‍💻 Desenvolvido por Thiago Costa
+<<<<<<< HEAD
 - 🔗 GitHub @thmoreiracosta
+=======
+- 🔗 GitHub @thmoreiracosta
+>>>>>>> 25fb6c40885144b270efcd6ac3e6bb5274c96b18
