@@ -44,7 +44,7 @@ function updateIndicators(index) {
 let currentIndex = 0;
 let timer = null;
 let resumeTimer = null; // timeout para religar autoplay
-const RESUME_DELAY = 10000;
+const RESUME_DELAY = 15000;
 
 function showProduct(index, direction = "next") {
   const items = document.querySelectorAll(".item");
