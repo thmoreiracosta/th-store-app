@@ -426,3 +426,32 @@ header nav div a:hover::after {
   background-color: #00f7ff;
   box-shadow: 0 0 10px rgba(0, 247, 255, 0.5);
 }
+
+footer.footer {
+  width: 100%;
+  padding: 15px 0;
+  background-color: #1a1a1a;
+  text-align: center;
+  font-size: 14px;
+  color: #eee;
+  font-family: "Poppins", sans-serif;
+  border-top: 1px solid #beff1b;
+
+  position: fixed;  
+  bottom: 0;        
+  left: 0;
+  z-index: 10;  
+}
+
+footer.footer a {
+  color: #beff1b;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s;
+}
+
+footer.footer a:hover {
+  color: #fff;
+}
+
+
